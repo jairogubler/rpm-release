@@ -1,0 +1,11 @@
+stt-model-narrowband-cidadesbr,linse-stt-asr
+linse-libs-dsp,linse-stt-asr
+linse-libs-stt,linse-stt-asr
+stt-model-wideband,linse-stt-asr
+stt-model-wideband-especialidades,linse-stt-asr
+linse-libs-core,linse-stt-asr
+linse-tools,linse-stt-asr
+qtocencore-libs,linse-stt-asr
+stt-server,linse-stt-asr
+stt-model-narrowband-especialidades,linse-stt-asr
+stt-model-wideband-cidadesbr,linse-stt-asr

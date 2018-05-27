@@ -1,0 +1,9 @@
+linse-libs-dsp,full;voz_anapaula;voz_marcos
+qt5-qtbase,full;voz_anapaula;voz_marcos
+tts-voice-anapaula,full;voz_anapaula
+tts-voice-marcos,full;voz_marcos
+linse-libs-core,full;voz_anapaula;voz_marcos
+linse-tools,full;voz_anapaula;voz_marcos
+tts-server,full;voz_anapaula;voz_marcos
+qt5-qtbase-common,full;voz_anapaula;voz_marcos
+qtocencore-libs,full;voz_anapaula;voz_marcos
